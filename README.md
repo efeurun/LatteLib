@@ -1,7 +1,7 @@
 
 # LatteLib
 
-Collection of useful Unity examples.
+Collection of useful Unity libraries, tools and scripts.
 
 ## Content
 
@@ -12,3 +12,7 @@ Collection of useful Unity examples.
 * Zenject : https://github.com/modesttree/Zenject 
 * Unitask : https://github.com/Cysharp/UniTask
 * DoTween : https://github.com/Demigiant/dotween
+
+## Dialogue & Narrative
+
+* [YarnSpinner](https://github.com/YarnSpinnerTool/YarnSpinner) : A dialogue tool for Unity, features calling functions from the dialogue and easy translation integration.
