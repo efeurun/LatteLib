@@ -7,7 +7,8 @@ Collection of useful Unity examples.
 
 * #### [RectTransformExtensions.cs](https://github.com/efelatte/LatteLib/blob/main/Scripts/Extension%20Scripts/RectTransformExtensions.cs) : Detects if two RectTransforms are overlapping on each other.
 
-## Useful Tools & Libraries
+## Must have tools & libraries
 
 * Zenject : https://github.com/modesttree/Zenject 
 * Unitask : https://github.com/Cysharp/UniTask
+* DoTween : https://github.com/Demigiant/dotween
