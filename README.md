@@ -30,6 +30,8 @@ LatteLib is a collection of useful Unity libraries, tools, and scripts. Its aim 
 
 * [DoTween](https://github.com/Demigiant/dotween): A fast and efficient animation engine for Unity.
 
+* [Unity UI Extensions](https://github.com/Unity-UI-Extensions/com.unity.uiextensions): A collection of extension scripts / effects and controls to enhance your Unity UI experience. 
+
 ## Platform-Specific Tools & Libraries
 
 * [SteamWorks.NET](https://github.com/rlabrecque/Steamworks.NET): A C# wrapper for Valve's Steamworks API.
