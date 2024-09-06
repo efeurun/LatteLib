@@ -1,6 +1,6 @@
 # LatteLib
 
-LatteLib is a collection of useful Unity libraries, tools, and scripts. Its aim is to help Unity developers save time and effort by providing a set of ready-made tools that they can use in their projects.
+LatteLib is a curated collection of Unity libraries, tools, and scripts designed to streamline development and solve common challenges. The goal of this project is to serve as both a personal archive of essential resources and a helpful toolkit for other developers in the community.
 
 ## Table of Contents
 
