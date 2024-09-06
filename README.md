@@ -17,7 +17,6 @@ LatteLib is a collection of useful Unity libraries, tools, and scripts. Its aim 
 
 `RectTransformExtensions.cs` is a script that detects if two RectTransforms are overlapping on each other.
 
-
 ### ScrollRectExtensions.cs
 
 `ScrollRectExtensions.cs` is a script that makes control of nested prefabs much more stable, routing and distinguishing vertical & horizontal movements between child and the parent scroll rect.
@@ -30,7 +29,9 @@ LatteLib is a collection of useful Unity libraries, tools, and scripts. Its aim 
 
 * [DoTween](https://github.com/Demigiant/dotween): A fast and efficient animation engine for Unity.
 
-* [Unity UI Extensions](https://github.com/Unity-UI-Extensions/com.unity.uiextensions): A collection of extension scripts / effects and controls to enhance your Unity UI experience. 
+* [Unity UI Extensions](https://github.com/Unity-UI-Extensions/com.unity.uiextensions): A collection of extension scripts / effects and controls to enhance your Unity UI experience.
+  
+* [Basic Save System](https://github.com/DapperDino/Dapper-Tools/tree/master/Runtime/SavingLoading): A straightforward save and load system by Dapper Dino, utilizing BinaryFormatter and can be easily extended and customized.*
 
 ## Platform-Specific Tools & Libraries
 
