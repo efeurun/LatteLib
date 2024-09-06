@@ -10,6 +10,7 @@ LatteLib is a collection of useful Unity libraries, tools, and scripts. Its aim 
 * [Must-Have Tools & Libraries](#must-have-tools--libraries)
 * [Platform-Specific Tools & Libraries](#platform-specific-tools--libraries)
 * [Dialogue & Narrative](#dialogue--narrative)
+* [Resources](#resources)
 
 ## Scripts
 
@@ -40,6 +41,10 @@ LatteLib is a collection of useful Unity libraries, tools, and scripts. Its aim 
 ## Dialogue & Narrative
 
 * [YarnSpinner](https://github.com/YarnSpinnerTool/YarnSpinner): A dialogue tool for Unity that features calling functions from the dialogue and easy translation integration.
+
+## Resources
+
+* [UNITY SOLID](https://unity.com/resources/design-patterns-solid-ebook): "Level up your code with design patterns and SOLID" project and e-book by Unity. 
 
 ## License
 
