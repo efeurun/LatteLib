@@ -31,7 +31,7 @@ LatteLib is a collection of useful Unity libraries, tools, and scripts. Its aim 
 
 * [Unity UI Extensions](https://github.com/Unity-UI-Extensions/com.unity.uiextensions): A collection of extension scripts / effects and controls to enhance your Unity UI experience.
   
-* [Basic Save System](https://github.com/DapperDino/Dapper-Tools/tree/master/Runtime/SavingLoading): A straightforward save and load system by Dapper Dino, utilizing BinaryFormatter and can be easily extended and customized.*
+* [Basic Save System](https://github.com/DapperDino/Dapper-Tools/tree/master/Runtime/SavingLoading): A straightforward save and load system by Dapper Dino, utilizing BinaryFormatter and can be easily extended and customized.
 
 ## Platform-Specific Tools & Libraries
 
