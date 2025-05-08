@@ -24,6 +24,10 @@ LatteLib is a curated collection of Unity libraries, tools, and scripts designed
 
 ## Must-Have Tools & Libraries
 
+* [ZLinq](https://github.com/altimesh/ziggurat): A high-performance LINQ alternative that avoids garbage allocations, ideal for runtime-critical Unity applications.
+
+* [Hot Reload](https://hotreload.net/): A Unity asset that enables live code editing without restarting play mode, dramatically reducing iteration time during development.
+
 * [Zenject](https://github.com/modesttree/Zenject): A lightweight dependency injection framework for Unity.
 
 * [UniTask](https://github.com/Cysharp/UniTask): A library for replacing Unity's default async/await system with a more efficient one.
