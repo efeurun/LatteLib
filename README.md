@@ -38,6 +38,8 @@ LatteLib is a curated collection of Unity libraries, tools, and scripts designed
   
 * [Basic Save System](https://github.com/DapperDino/Dapper-Tools/tree/master/Runtime/SavingLoading): A straightforward save and load system by Dapper Dino, utilizing BinaryFormatter and can be easily extended and customized.
 
+* [Compilation Visualizer](https://github.com/needle-tools/compilation-visualizer): A Unity editor extension that hooks into the Editor’s compilation events and renders them on an interactive timeline. It visualizes full and partial assembly compilations and, when you select an assembly, highlights its dependencies and dependents—making it easy to pinpoint bottlenecks and optimize compile times.
+
 ## Platform-Specific Tools & Libraries
 
 * [SteamWorks.NET](https://github.com/rlabrecque/Steamworks.NET): A C# wrapper for Valve's Steamworks API.
